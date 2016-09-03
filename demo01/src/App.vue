@@ -1,5 +1,7 @@
 <template>
-  
+  <div class="container">
+    this is  vue demo01!
+  </div>
 </template>
 
 <script>
@@ -24,13 +26,11 @@
         height: 100%;
     }
     
-    #app {
+    .container {
         color: #2c3e50;
         margin-top: -100px;
         max-width: 600px;
         font-family: Source Sans Pro, Helvetica, sans-serif;
         text-align: center;
     }
-    
-   
 </style>
