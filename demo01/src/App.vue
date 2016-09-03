@@ -2,14 +2,14 @@
   <div class="container">
     this is  vue demo01!
   </div>
+  <router-view></router-view>
 </template>
-
 <script>
-    import Hello from './components/Hello'
+    import dateTime from './components/dateTime'
 
     export default {
         components: {
-            Hello
+            dateTime
         }
     }
 </script>
