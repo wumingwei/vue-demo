@@ -11,13 +11,13 @@
 <script>
     export default {
         data() {
-            return {
-                chooseDate: '2016年9月3日'
+                return {
+                    chooseDate: '2016年9月3日'
+                }
+            },
+            methods() {
+
             }
-        },
-        methods：{
-            
-        }
     }
 </script>
 
