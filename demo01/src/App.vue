@@ -32,13 +32,5 @@
         text-align: center;
     }
     
-    #app a {
-        color: #42b983;
-        text-decoration: none;
-    }
-    
-    .logo {
-        width: 100px;
-        height: 100px
-    }
+   
 </style>
